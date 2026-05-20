@@ -4,7 +4,7 @@
 #include "utils/spz_loader.h"
 #include "utils/splat_texture.h"  
 #include <assert.h>
-#include <memory.h>
+#include <memory.h> 
 #include <stdlib.h>
 #include <stdint.h>
 #include <float.h>
