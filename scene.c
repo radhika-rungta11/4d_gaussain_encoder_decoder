@@ -1,7 +1,7 @@
 #include "scene.h"
 #include "camera.h"
 #include "utils/logger.h"
-#include "utils/spz_loader.h"
+#include "utils/spz_loader.h" 
 #include "utils/splat_texture.h"  
 #include <assert.h>
 #include <memory.h> 
