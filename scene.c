@@ -3,7 +3,7 @@
 #include "utils/logger.h"
 #include "utils/spz_loader.h" 
 #include "utils/splat_texture.h"  
-#include <assert.h>
+#include <assert.h> 
 #include <memory.h> 
 #include <stdlib.h>
 #include <stdint.h>
