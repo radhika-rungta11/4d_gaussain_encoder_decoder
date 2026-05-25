@@ -1,0 +1,26 @@
+UV VERIFICATION REPORT
+==================================================
+
+SOURCE: USDZ mesh (correct UV + texture pair)
+
+  Vertices:       12,502
+  Faces:          25,000
+  UV coords:      13,169
+  U range:        [0.0001, 0.9857]
+  V range:        [0.0002, 0.9999]
+  UV coverage:    73.6%
+  Out-of-range:   No
+
+VERIFICATION IMAGES
+--------------------------------------------------
+  uv_layout_original.png — UV islands of the USDZ mesh.
+  texture_with_uv.png    — USDZ UV wireframe ON the USDZ texture.
+                           Islands SHOULD align with the can's regions.
+  uv_applied_check.png   — Each UV triangle filled with its texture colour.
+                           Should look like a recognisable can if UV is correct.
+  uv_stretch_check.png   — Blue=good projection, Red=distorted.
+
+OPTIMIZED MESH
+--------------------------------------------------
+  Faces:       3,000  (12% of original)
+  UV coverage: 47.1%

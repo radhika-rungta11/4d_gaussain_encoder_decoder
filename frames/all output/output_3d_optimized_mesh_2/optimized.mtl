@@ -1,0 +1,9 @@
+newmtl Material
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+Ns 10.0
+illum 2
+map_Kd optimized_diffuse.png
+map_bump optimized_normal.png
+norm optimized_normal.png
