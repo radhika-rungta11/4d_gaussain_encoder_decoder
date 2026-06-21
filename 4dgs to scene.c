@@ -1,7 +1,7 @@
 /*
  * 4dgs_to_scene.c
  *
- * Converts a decoded Temporal4DGSScene into PackedSplat[] and feeds
+ * Converts a decoded Temporal4DGSScene into PackedSplat[] and feeds 
  * it into the existing splat render pipeline (scene.c / splat.c).
  *
  * Drop this file next to scene.c and add it to your build.
